@@ -1,0 +1,21 @@
+{
+    "fox": {
+        "attributes": [
+            "quick",
+            "brown"
+        ],
+        "actions": [
+            "jump"
+        ],
+        "actedUpon": []
+    },
+    "dog": {
+        "attributes": [
+            "lazy"
+        ],
+        "actions": [],
+        "actedUpon": [
+            "jump"
+        ]
+    }
+}
